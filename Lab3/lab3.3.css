@@ -1,0 +1,80 @@
+html { background-color:#f7f7f7;}
+body {font-size:12pt;padding:3em;width:900px;margin:0 auto;background-color:#fff;margin:2em auto}
+dt {float:left;width:180px;clear:both;}
+dd {float:left;width:500px;clear:right;}
+a {color:#00c;}
+
+h1,h2,h3 {
+clear:both;
+font-family:sans-serif;
+}
+h1,h2,h3 {font-family:serif;}
+h1 { font-size:1.8em;font-family:serif}
+h2 { font-size:1.6em;}
+h3 { font-size:1.2em;padding-top:24px;text-transform:capitalize}
+
+div.text-analyzer {
+border-radius:11px;
+-moz-border-radius:11px;
+-webkit-border-radius:11px;
+padding:2em 4em;
+background-color:#fffff7;
+margin-bottom:2em;
+}
+td {
+padding: 4px;
+}
+td.align-right {
+text-align:right;
+width:200px;
+padding-left:18px;
+font-family:sans-serif;
+}
+.most-common-words {
+border:solid 1px #cca;
+font-family:serif;
+font-style:italic;
+padding: 2em;
+background-color:white;
+}
+.word1 {
+font-size:3em;
+color:#a00;
+font-weight:bold;
+}
+.word2 {
+font-size:2em;
+color:#922;
+font-weight:bold;
+}
+.word3 {
+font-size:1.8em;
+color:#744;
+font-weight:bold;
+}
+.word4 {
+font-size:1.6em;
+color:#655;
+font-weight:bold;
+}
+.word5 {
+font-size:1.4em;
+color:#566;
+font-weight:bold;
+}
+.word6 {
+font-size:1.2em;
+color:#477
+}
+.word7 {
+font-size:1.1em;
+color:cadetblue
+}
+.word8 {
+font-size:1em;
+color:seagreen
+}
+.word9,.word10 {
+font-size:.8em;
+color:gray
+}
